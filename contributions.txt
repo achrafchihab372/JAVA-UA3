@@ -1,1 +1,11 @@
+Projet : Gestion de notes des étudiants: Achraf Chihab / Yassine Khalil
 
+Répartition des tâches : 
+
+Achraf Chihab : 
+Etape 1: Créer la classe Etudiant.java
+Etape 3: Créer la classe DepotEtudiantCSV.java. 
+
+Yassine Khalil : 
+Etape 2: Créer l'interface DepotEtudiant.java
+Etape 4: Créer la classe main
